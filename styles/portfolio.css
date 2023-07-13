@@ -73,6 +73,18 @@ p {
   padding: 100px 60px;
 }
 
+.about h1 {
+  font-size: 64px;
+}
+
+.about h2 {
+  font-size: 18px;
+}
+
+.about p {
+  font-size: 16px;
+}
+
 @media (max-width: 960px) {
   .hero h1 {
     font-size: 64px;

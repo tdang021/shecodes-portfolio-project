@@ -72,3 +72,10 @@ p {
 .project-description {
   padding: 100px 60px;
 }
+
+@media (max-width: 960px) {
+  .project-description {
+    padding: 0;
+    text-align: center;
+  }
+}

@@ -119,7 +119,21 @@ p {
 }
 
 .contact {
-  padding: 100px 60px;
+  padding: 100px 80px;
+}
+
+.contact h1 {
+  font-size: 64px;
+}
+
+.contact h3 {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.contact a {
+  color: var(--branding-color);
+  text-decoration: none;
 }
 
 @media (max-width: 960px) {

@@ -118,6 +118,10 @@ p {
   opacity: 0.7;
 }
 
+.contact {
+  padding: 100px 60px;
+}
+
 @media (max-width: 960px) {
   .hero h1 {
     font-size: 64px;

@@ -96,6 +96,28 @@ p {
   line-height: 30px;
 }
 
+.work {
+  padding: 160px 20px;
+}
+
+.work h1 {
+  font-size: 64px;
+  font-family: var(--heading-font);
+}
+
+.work h2 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.work p {
+  font-size: 14px;
+  text-align: center;
+  opacity: 0.7;
+}
+
 @media (max-width: 960px) {
   .hero h1 {
     font-size: 64px;
@@ -108,9 +130,23 @@ p {
 
   .about-content {
     text-align: center;
+    padding: 0;
   }
 
   .about img {
     margin-top: 20px;
+  }
+
+  .work h1 {
+    text-align: center;
+    font-size: 48px;
+  }
+
+  .work h2 {
+    font-size: 20px;
+  }
+
+  .work p {
+    font-size: 11px;
   }
 }

@@ -27,7 +27,7 @@ p {
 }
 
 nav {
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 nav ul {
@@ -38,6 +38,14 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
+  line-height: 40px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #272142b2;
+  opacity: 0.8;
+  margin-left: 10px;
 }
 
 .logo {

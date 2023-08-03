@@ -48,8 +48,14 @@ nav a {
   margin-left: 10px;
 }
 
+nav a:hover,
+nav li.active a {
+  color: var(--branding-color);
+  transition: all 0.2s ease-in;
+}
+
 .logo {
-  max-width: 150px;
+  max-height: 40px;
 }
 
 .hero {

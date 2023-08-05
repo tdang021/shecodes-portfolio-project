@@ -54,6 +54,27 @@ nav li.active a {
   transition: all 0.2s ease-in;
 }
 
+footer .email-link {
+  font-size: 24px;
+  font-family: var(--default-font);
+  color: black;
+  text-decoration: none;
+}
+
+footer .email-link:hover {
+  color: var(--branding-color);
+  transition: all 0.2s ease-in;
+}
+
+footer .social-links a {
+  margin: 0 20px;
+}
+
+footer h4 {
+  font-size: 48px;
+  font-family: var(--heading-font);
+}
+
 .logo {
   max-height: 40px;
 }
@@ -166,6 +187,12 @@ nav li.active a {
 .contact a {
   color: var(--branding-color);
   text-decoration: none;
+}
+
+.contact-box {
+  padding: 30px 120px;
+  background: var(--secondary-color);
+  border-radius: 10px;
 }
 
 @media (max-width: 960px) {

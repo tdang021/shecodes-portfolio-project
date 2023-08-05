@@ -75,6 +75,15 @@ footer h4 {
   font-family: var(--heading-font);
 }
 
+footer .open-source-link {
+  font-size: 12px;
+}
+
+footer .open-source-link a {
+  text-decoration: none;
+  color: var(--branding-color);
+}
+
 .logo {
   max-height: 40px;
 }

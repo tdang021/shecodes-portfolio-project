@@ -92,7 +92,7 @@ footer .open-source-link a {
   background: var(--secondary-color);
   text-align: center;
   margin: 0;
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .hero p {
@@ -136,7 +136,7 @@ footer .open-source-link a {
 }
 
 .about {
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .about-content {
@@ -159,7 +159,7 @@ footer .open-source-link a {
 }
 
 .work {
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 
 .work h1 {

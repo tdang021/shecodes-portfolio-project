@@ -193,7 +193,7 @@ footer .open-source-link a {
   font-weight: bold;
 }
 
-.contact a {
+.contact-page-links {
   color: var(--branding-color);
   text-decoration: none;
 }
